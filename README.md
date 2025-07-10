@@ -112,7 +112,7 @@ Drogaria São Paulo | November 2019 - February 2020
 ## Freelance & Consulting Experience
 
 ### QA Automation Principal (SDTE)  
-[Little Emperors](https://www.littleemperors.com/) | March 2023 - Present
+[Little Emperors](https://www.littleemperors.com/) | (UK) March 2023 - Present
 
 - Architected and developed comprehensive test automation framework from scratch for luxury hospitality application serving VIP members across Europe and UAE
 - Built robust end-to-end automation suite using Playwright and TypeScript, covering complete UI and API testing scenarios
@@ -122,7 +122,7 @@ Drogaria São Paulo | November 2019 - February 2020
 - **Technologies:** Playwright, TypeScript, GitHub Actions, Appium, CI/CD, API Testing, Cross-browser Testing
 
 ### Senior QA Automation Consultant  
-[Ascot Lloyd](https://www.ascotlloyd.co.uk/) | July 2024 - Present
+[Ascot Lloyd](https://www.ascotlloyd.co.uk/) | (UK) July 2024 - Present
 
 - Developed comprehensive test automation framework for tailored financial investment and consulting application serving European markets, with primary focus on UK clientele
 - Architected end-to-end testing solutions covering complete application lifecycle, API integrations, and performance testing using JMeter
